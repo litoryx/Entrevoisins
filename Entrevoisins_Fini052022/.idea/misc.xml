@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/OpenClassrooms-master (1)/OpenClassrooms-master/Android/Entrevoisins/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.254" />
+        <entry key="..\:/OpenClassrooms-master (1)/OpenClassrooms-master/Android/Entrevoisins/app/src/main/res/drawable/fleche.xml" value="0.254" />
+        <entry key="..\:/OpenClassrooms-master (1)/OpenClassrooms-master/Android/Entrevoisins/app/src/main/res/drawable/ic_account.xml" value="0.254" />
+        <entry key="..\:/OpenClassrooms-master (1)/OpenClassrooms-master/Android/Entrevoisins/app/src/main/res/drawable/ic_delete_white_24dp.xml" value="0.254" />
+        <entry key="..\:/OpenClassrooms-master (1)/OpenClassrooms-master/Android/Entrevoisins/app/src/main/res/drawable/ic_launcher_background.xml" value="0.254" />
+        <entry key="..\:/OpenClassrooms-master (1)/OpenClassrooms-master/Android/Entrevoisins/app/src/main/res/drawable/ic_person_add_white_24dp.xml" value="0.254" />
+        <entry key="..\:/OpenClassrooms-master (1)/OpenClassrooms-master/Android/Entrevoisins/app/src/main/res/drawable/ic_star_border_white_24dp.xml" value="0.254" />
+        <entry key="..\:/OpenClassrooms-master (1)/OpenClassrooms-master/Android/Entrevoisins/app/src/main/res/drawable/ic_star_white_24dp.xml" value="0.254" />
+        <entry key="..\:/OpenClassrooms-master (1)/OpenClassrooms-master/Android/Entrevoisins/app/src/main/res/drawable/ombre.xml" value="0.254" />
+        <entry key="..\:/OpenClassrooms-master (1)/OpenClassrooms-master/Android/Entrevoisins/app/src/main/res/layout/activity_add_neighbour.xml" value="0.10400000000000001" />
+        <entry key="..\:/OpenClassrooms-master (1)/OpenClassrooms-master/Android/Entrevoisins/app/src/main/res/layout/activity_affneighbour.xml" value="0.1" />
+        <entry key="..\:/OpenClassrooms-master (1)/OpenClassrooms-master/Android/Entrevoisins/app/src/main/res/layout/activity_detail.xml" value="0.264" />
+        <entry key="..\:/OpenClassrooms-master (1)/OpenClassrooms-master/Android/Entrevoisins/app/src/main/res/layout/activity_list_neighbour.xml" value="0.2" />
+        <entry key="..\:/OpenClassrooms-master (1)/OpenClassrooms-master/Android/Entrevoisins/app/src/main/res/layout/fleche.xml" value="0.25416666666666665" />
+        <entry key="..\:/OpenClassrooms-master (1)/OpenClassrooms-master/Android/Entrevoisins/app/src/main/res/layout/fragment_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/OpenClassrooms-master (1)/OpenClassrooms-master/Android/Entrevoisins/app/src/main/res/layout/fragment_favorite.xml" value="0.1" />
+        <entry key="..\:/OpenClassrooms-master (1)/OpenClassrooms-master/Android/Entrevoisins/app/src/main/res/layout/fragment_list_neighbour.xml" value="0.1" />
+        <entry key="..\:/OpenClassrooms-master (1)/OpenClassrooms-master/Android/Entrevoisins/app/src/main/res/layout/fragment_neighbour.xml" value="0.25" />
+        <entry key="..\:/OpenClassrooms-master (1)/OpenClassrooms-master/Android/Entrevoisins/app/src/main/res/layout/fragment_neighbour_list.xml" value="0.16" />
+        <entry key="..\:/OpenClassrooms-master (1)/OpenClassrooms-master/Android/Entrevoisins/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1145" />
+        <entry key="..\:/OpenClassrooms-master (1)/OpenClassrooms-master/Android/Entrevoisins/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1145" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8 (1)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
